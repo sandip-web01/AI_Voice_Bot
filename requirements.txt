@@ -1,0 +1,8 @@
+SpeechRecognition
+flask
+pyaudio
+pywin32
+setuptools
+openpyxl
+win32com.client
+pythoncom
